@@ -13,7 +13,7 @@
   "dependencies": {
     "bcryptjs": "^2.4.0",
     "boom": "^2.9.0",
-    "confidence": "^3.0.2",
+    "confidence": "^5.0.0",
     "chalk": "*",
     "dotenv": "^2.0.0",
     "glue": "^4.1.0",
