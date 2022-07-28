@@ -27,7 +27,7 @@
     "joi": "^9.2.0",
     "jsonwebtoken": "^7.1.9",
     "lodash": "~3.10.1",
-    "mongoose": "4.7.4",
+    "mongoose": "6.4.6",
     "node-uuid": "^1.4.7",
     "nodemailer": "^2.6.4",
     "nodemailer-markdown": "^1.0.1",
