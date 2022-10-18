@@ -17,7 +17,7 @@
     "chalk": "*",
     "dotenv": "^2.0.0",
     "glue": "^4.1.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-exit": "0.0.2",
     "gulp-nodemon": "^2.0.6",
     "gulp-util": "latest",
